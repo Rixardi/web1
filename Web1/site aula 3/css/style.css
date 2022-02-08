@@ -1,0 +1,24 @@
+ul#pontos {
+    list-style-type: none;
+}
+
+body {
+    background-image: url("../img/jGlzr.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:black;
+}
+
+address {
+    padding-top: 700px;
+    padding-left: 1700px;
+}

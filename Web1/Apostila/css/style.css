@@ -1,0 +1,36 @@
+ul#pontos {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-image: url(../img/download_auto_x2.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+    text-align: center;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;  
+    
+}
+
+/*.texto-c {
+    font-size:36px;
+    -webkit-background-clip: text;
+    color: white;
+    -webkit-text-fill-color: transparent;
+    background-color:#FFF;
+    background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
+    background-image: -webkit-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -moz-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  }*/
