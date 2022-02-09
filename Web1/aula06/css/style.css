@@ -1,0 +1,26 @@
+ul#pontos {
+    list-style-type: none;
+}
+
+body {
+    background-image: url("../img/download_auto_x2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:black;
+}
+
+address {
+    padding-top: 700px;
+    padding-left: 1700px;
+}
