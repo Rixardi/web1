@@ -1,0 +1,33 @@
+body#back2 {
+    background-image: url("../img/back2.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: brown;
+}
+
+body#back {
+    text-align: center;
+    background-image: url("../img/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1#pad {
+    padding-top: 185px;
+    text-align: center;
+}
+
+
+td {
+    color: brown;
+}
+
