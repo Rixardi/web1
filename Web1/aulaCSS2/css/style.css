@@ -1,0 +1,65 @@
+#center{
+    float: center;
+    width: 150px;
+    padding-left: 10px;
+}
+
+.direita {
+        float: right;
+        width: 150px;
+        padding-left: 10px;
+    }
+
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+#idh1 {
+    color: aquamarine;
+}
+
+.container {
+    background-color: aquamarine;
+    color: brown;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.primeiroh1 {
+    color:brown;
+}
+
+.segundoh1 {
+    color: aqua;
+}
+
+.terceiroh1 {
+    color: blue
+}
+
+.primeiroh2 {
+    color: blueviolet
+}
+
+.terceiroh2 {
+    color: violet;
+}
+
+.segundoh2 {
+    color: yellow;
+}
+
+.primeiroh3 {
+    color: springgreen;
+}
+
+.segundoh3 { 
+    color: tomato;
+}
+
+.terceiroh3 {
+    color: dimgray;
+}
