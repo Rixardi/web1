@@ -1,0 +1,57 @@
+body {
+    background-image: url("../img/zyro-image.png");
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    background-color:darkblue;
+    color: blue;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+ th {
+     height: 50px;
+ }
+
+ td {
+     color: black;
+ }
+
+ th, td {
+     padding: 15px;
+     text-align: left;
+ }
+
+ th, td {
+     border-bottom: 1px solid black;
+ }
+
+ tr:hover {
+     background-color: darkviolet;
+ }
+
+ tr:nth-child(::-webkit-meter-even-less-good-value) {background-color: #f2f2f2;}
+
+ th {
+     background-color: transparent;
+     color: white;
+ }
