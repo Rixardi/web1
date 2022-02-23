@@ -1,0 +1,51 @@
+body {
+ font-family: 'Courier New', Courier, monospace;
+}
+
+/* Falando de DIV com uma classe dentro dela "<div class="container" */
+
+.container {
+  background-color: #333;
+  color: #eee;
+  width: 80%;
+  margin: auto;
+  padding: 20px ;
+  border: 1px solid red;
+  box-sizing: borde-box;   /* para ter um controle maior do elemento no container */
+  /* padding-top: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 60px;  
+/* se for tudo igual podemos usar: */
+  padding: 60px; */
+  border: 1px solid red;
+}
+
+p {  text-align: justify; }
+
+.pp {  text-align: justify; color:black}
+
+/*  Comentado sem efeito na página
+div.img
+{
+   margin:2px;
+   border:1px solid #d0d0da; 
+   height:auto;
+   width:auto;
+   float:left;
+   text-align:center;
+} */
+
+img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+div.desc {
+  text-align:center;
+  font-weight:normal;
+  width:350px;
+  margin:2px;  
+}
+
